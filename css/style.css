@@ -205,7 +205,6 @@ img {
 }
 .info-title-list {
   display: flex;
-  margin-top: 120px;
   gap: 24px;
   font-family: var(--prymary-font);
   color: var(--slite-title-color);
@@ -213,6 +212,9 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.info-title-calculate {
+  width: calc((100% - 72px) / 4);
 }
 .section-images-doing {
   padding-bottom: 120px;
