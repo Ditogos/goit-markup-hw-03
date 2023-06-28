@@ -188,7 +188,7 @@ img {
   overflow: hidden;
 }
 .main-info-title {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
   color: var(--backgrong-footer-color);
   font-weight: 500;
   font-size: 20px;
